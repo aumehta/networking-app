@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hello world</Text>
+      <script src="https://apis.google.com/js/platform.js" async defer></script>
       <StatusBar style="auto" />
     </View>
   );
